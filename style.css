@@ -1,0 +1,76 @@
+.container {
+    margin-bottom: 100px;
+}
+
+.section-bg {
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+
+.carousel-item{
+    padding: 2rem 4rem;
+} 
+
+.price {
+    color: #FF136F;
+}
+
+.buy-btn {
+    background-image: linear-gradient(to bottom, #FF5b9b, #FF136F);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+
+.watch {
+    background-color: rgb(238, 238, 53);
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.bag {
+    background-color: #ec367c;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.shoe {
+    background-color: rgb(54, 54, 246);
+    padding: 10px 30px; 
+    border-radius: 10px;
+}
+.categories h1{
+    color: white;
+}
+.categories img {
+    width: 100px;
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 100px lightgray;
+    border-radius: 10px;
+}
+
+.card-footer {
+    border-top: none;
+    background-color: white;
+}
+
+#contact{
+    height: 300px;
+  
+}
+#contact h6 {
+    color: gray;
+}
+#contact button {
+    margin-top: 0.6rem;
+}
+
+footer {
+    text-align: center;
+    color: dimgray;
+}
